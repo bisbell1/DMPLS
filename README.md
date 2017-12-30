@@ -7,4 +7,5 @@ Often times brute force bots will use comma, space and/or non-ASCII characters a
 The Base64 encoding makes it possible to create an easily parsable comma separated log entry.
 
 Sample Log Line (credentials: user=testuser  password=test,password)
+
 DMPL:: Remote IP: 192.168.1.10, Port: 61797, User: dGVzdHVzZXI=, Password: dGVzdCxwYXNzd29yZA==
